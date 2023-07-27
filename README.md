@@ -1,6 +1,6 @@
-# Santander Dev Week 2023 Angular
 <div align="center">
-Live de Felipe Silva Aguiar – Expert da Formação Angular Developer 
+# Santander Dev Week 2023 Angular
+## Live de Felipe Silva Aguiar – Expert da Formação Angular Developer 
 
 <h1 align="center">
  <img src=" ">
@@ -17,7 +17,7 @@ Live de Felipe Silva Aguiar – Expert da Formação Angular Developer
 </div>
 
 
-| [<img src="https://avatars.githubusercontent.com/u/45314696?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle"><br><sub>Ana Paula</sub>](https://github.com/PaulaSena) |
+| [<img src="https://avatars.githubusercontent.com/u/45314696?v=4"><br><sub>Ana Paula</sub>](https://github.com/PaulaSena) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](www.linkedin.com/in/paulassena)                                             |
 
