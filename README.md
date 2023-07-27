@@ -17,7 +17,7 @@
 </div>
 
 
- [<img src="https://avatars.githubusercontent.com/u/45314696?v=4" alt="imgPaula" width="100"><br><sub>Ana Paula</sub>](https://github.com/PaulaSena) 
+ [<img src="https://avatars.githubusercontent.com/u/45314696?v=4" alt="imgPaula" width="40"><br><sub>Ana Paula</sub>](https://github.com/PaulaSena) 
  :---------------------------------------------------------------------------------------------------------------------------------------: 
 |                                             [Linkedin](www.linkedin.com/in/paulassena)                                             |
 
